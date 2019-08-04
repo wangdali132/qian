@@ -2,7 +2,7 @@
       <div class="login-wrap" :style="divimg">
 
       <div>
-         <p class="p-title">LCG我爱编码,蛟龙在线,欢迎点评</p>
+         <p class="p-title">LCG我爱编码,蛟龙在线,欢迎点评111111</p>
       </div>
         <div class="ms-login">
           <div class="ms-title">
